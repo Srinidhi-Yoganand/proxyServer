@@ -16,7 +16,7 @@
 #include <time.h>
 #include <zlib.h>
 
-#include "proxy_parse.h"
+#include "headers/proxy_parse.h"
 
 #define MAX_CLIENTS 400
 #define MAX_BYTES 4096
